@@ -84,16 +84,6 @@
 </p>
 
 
-<div align="left">
-  
-  <img width="12" />
-  <img width="12" />
-  
-</div>
-
-###
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandroconti11&show_icons=true&locale=en&layout=compact" alt="alessandroconti11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandroconti11&show_icons=true&locale=en" alt="alessandroconti11" /></p>
