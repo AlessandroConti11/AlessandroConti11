@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alessandro Conti</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
-- 🎓 Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) INGEGNERIA INFORMATICA
+- 🎓 Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) **INGEGNERIA INFORMATICA**
   - Student: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - INGEGNERIA INFORMATICA at Polytechnic University of Milan
+
+- 🌱 I am interested in **Cyber Security**
   
 - 👨‍💻 All of my projects are available at my [GitHub page](https://github.com/AlessandroConti11).
 
@@ -88,4 +90,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandroconti11&show_icons=true&locale=en" alt="alessandroconti11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessandroconti11&" alt="alessandroconti11" /></p>
+<img src="https://raw.githubusercontent.com/AlessandroConti11/AlessandroConti11/output/snake.svg" alt="Snake animation" />
