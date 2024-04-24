@@ -79,6 +79,11 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   </a>
   <br>
+
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png" height="40" alt="wireshark logo"/>
+  </a>
+  <br>
     
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
@@ -89,5 +94,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandroconti11&show_icons=true&locale=en&layout=compact" alt="alessandroconti11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandroconti11&show_icons=true&locale=en" alt="alessandroconti11" /></p>
-
-<img src="https://raw.githubusercontent.com/AlessandroConti11/AlessandroConti11/output/snake.svg" alt="Snake animation" />
