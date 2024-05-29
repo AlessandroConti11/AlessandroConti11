@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alessandro Conti</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk1bjF6ZTIyMGtxZzd4YjFiYzU1anpzY2hwamNpZmtseGF3b2Z5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sFKI1gDuP4iM8/giphy.gif"  />
+</div>
+
+
 - 🎓 Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) **INGEGNERIA INFORMATICA**
   - Student: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - INGEGNERIA INFORMATICA at Polytechnic University of Milan
 
@@ -91,6 +96,19 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandroconti11&show_icons=true&locale=en&layout=compact" alt="alessandroconti11"/></p>
+<img src="https://raw.githubusercontent.com/AlessandroConti11/AlessandroConti11/output/snake.svg" alt="Snake animation" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandroconti11&show_icons=true&locale=en" alt="alessandroconti11"/></p>
+
+<h3>Stats: </h3>
+<p>
+<!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AlessandroConti11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<!--Streak -->
+  <img src="https://streak-stats.demolab.com?user=AlessandroConti11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<!-- Language -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroConti11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!-- Activity-Graph -->
+  <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlessandroConti11&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
+</p>
+
+###
