@@ -9,7 +9,7 @@
 - 🎓 Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) **INGEGNERIA INFORMATICA**
   - Student: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - INGEGNERIA INFORMATICA at Polytechnic University of Milan
 
-- 🌱 I am interested in **Cyber Security**
+- 🌱 I am interested in **Cyber Security**, **Operating System** and in general all **FOOS**
   
 - 👨‍💻 All of my projects are available at my [GitHub page](https://github.com/AlessandroConti11).
 
@@ -72,6 +72,9 @@
   </a> 
   <br>
 
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+   </a>
   <a  href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   </a>
@@ -89,10 +92,6 @@
     <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png" height="40" alt="wireshark logo"/>
   </a>
   <br>
-    
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  </a> 
 </p>
 
 
