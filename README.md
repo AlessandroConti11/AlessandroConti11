@@ -9,7 +9,7 @@
 - 🎓 Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) **INGEGNERIA INFORMATICA**
   - Student: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - INGEGNERIA INFORMATICA at Polytechnic University of Milan
 
-- 🌱 I am interested in **Cyber Security**, **Operating System** and in general all **FOOS**
+- 🌱 I am interested in **Cyber Security**, **Operating System** and in general all **FOSS**
   
 - 👨‍💻 All of my projects are available at my [GitHub page](https://github.com/AlessandroConti11).
 
