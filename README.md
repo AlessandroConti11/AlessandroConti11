@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alessandro Conti</h1>
-<video autoplay loop muted playsinline> 
-<!--   <source src="https://github.com/AlessandroConti11/AlessandroConti11/blob/main/Screencast%20from%202024-11-30%2018-11-45.webm", type="video/webm"> -->
-  provaprovaprova
-</video>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
 <div align="center">
