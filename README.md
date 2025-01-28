@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alessandro Conti</h1>
+<div align="center">
+  <h1 align="center"><img src="images/hi.gif" /></h1>
+</div>
+
 <h3 align="center">A passionate backend developer from Italy</h3>
 
 <div align="center">
