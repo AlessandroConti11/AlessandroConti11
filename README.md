@@ -67,6 +67,8 @@
 
   <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png" height="40" alt="wireshark logo"/>
   <br>
+
+  <img src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" />
 </p>
 
 
