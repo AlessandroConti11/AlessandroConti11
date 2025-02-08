@@ -1,3 +1,5 @@
+<img src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000" alt="ciao"/>
+
 <div align="center">
   <h1 align="center"><img src="images/hi.gif" /></h1>
 </div>
