@@ -25,13 +25,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:ale.conti.1101@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
   </a>
   <a href="mailto:alessandro11.conti@mail.polimi.it" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://t.me/Imperatore11" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://discord.com/users/364668842049273860" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" alt="discord" height="40"/>
   </a>
 </p>
 
