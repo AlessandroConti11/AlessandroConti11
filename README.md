@@ -14,7 +14,8 @@
 
 - 🌱 I am interested in **Cyber Security**, **Operating System** and in general all **FOSS**
   
-- 👨‍💻 All of my projects are available at my [GitHub page](https://github.com/AlessandroConti11).
+- 👨‍💻 All of my projects are available on my [GitHub page](https://github.com/AlessandroConti11).
+- 👨‍💻 My CV is available on my [website](https://alessandroconti11.github.io/cv/).
 
 - 📫 How to reach me **ale.conti.1101@gmail.com** or **alessandro11.conti@mail.polimi.it**
 
