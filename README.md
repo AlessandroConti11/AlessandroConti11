@@ -38,37 +38,39 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="bash" height="40"/>
   <br>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" height="40"/>
   <br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" height="40"/>
   <br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" height="40"/>
   <br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html 5" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css 3" height="40"/> 
   <br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" height="40"/> 
   <br>
   
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="github" height="40"/>
   <br>
 
-  <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png" height="40" alt="wireshark logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" height="40"/>
   <br>
 
   <img src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" />
+  <br>
+
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=TuXN3JNUBGOT&format=png&color=000000" alt="windows" height="40"/>
 </p>
 
 
