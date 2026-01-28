@@ -84,7 +84,7 @@
 <h3>Stats: </h3>
 <p>
 <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AlessandroConti11&show_icons=true&include_all_commits=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlessandroConti11&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
 <!--Streak -->
 <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlessandroConti11&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> -->
 <!-- Language -->
