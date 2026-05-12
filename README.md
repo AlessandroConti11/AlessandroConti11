@@ -81,16 +81,16 @@
 <img src="https://raw.githubusercontent.com/AlessandroConti11/AlessandroConti11/output/snake.svg" alt="Snake animation" />
 
 
-<h3>Stats: </h3>
-<p>
+<!-- <h3>Stats: </h3> -->
+<!-- <p> -->
 <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AlessandroConti11&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AlessandroConti11&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="stats graph"  /> -->
 <!--Streak -->
 <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlessandroConti11&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> -->
 <!-- Language -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroConti11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&exclude_repo=AlessandroCOnti11,AlessandroConti11.github.io" height="150" alt="languages graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroConti11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&exclude_repo=AlessandroConti11,AlessandroConti11.github.io" height="150" alt="languages graph"  /> -->
 <!-- Activity-Graph -->
 <!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlessandroConti11&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
-</p>
+<!-- </p> -->
 
 ###
