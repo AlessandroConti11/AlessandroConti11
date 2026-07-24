@@ -9,8 +9,9 @@
 </div>
 
 
-- 🎓 Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) **INGEGNERIA INFORMATICA** at Polytechnic University of Milan
-  - Student: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - INGEGNERIA INFORMATICA at Polytechnic University of Milan
+- 🎓 Degree:
+  - Ing Ind - Inf (Mag.)(ord. 270) - MI (481) **COMPUTER SCIENCE AND ENGINEERING - INGEGNERIA INFORMATICA** at Politecnico di Milano
+  - Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) INGEGNERIA INFORMATICA at Politecnico di Milano
 
 - 🌱 I am interested in **Cyber Security**, **Operating System** and in general all **FOSS**
   
